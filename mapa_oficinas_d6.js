@@ -4932,7 +4932,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"https://cdn.prod.website-files.com/66d052db781718d42caceaaa/67c0b2b48e098e2a5a0ffda6_mapa_animado.webp?1740671316038", id:"_Mesadetrabajo_3"},
+		{src:"https://cdn.prod.website-files.com/66d052db781718d42caceaaa/67c0b2b48e098e2a5a0ffda6_e670d7f5109f5e69f744685e2b8e3b6e_mapa_animado.webp?1740671316038", id:"_Mesadetrabajo_3"},
 		{src:"https://cdn.prod.website-files.com/66d052db781718d42caceaaa/67c0b2b4c4af59c598c16b3c_sombra_tarjeta.png?1740671316038", id:"sombra_cabecera"},
 		{src:"https://cdn.prod.website-files.com/66d052db781718d42caceaaa/67c0b2b310819da782511df9_sombra_cabecera.png?1740671316038", id:"sombra_tarjeta"},
 	],
